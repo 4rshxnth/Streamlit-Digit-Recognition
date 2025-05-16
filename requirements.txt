@@ -2,3 +2,4 @@ streamlit
 scikit-learn
 matplotlib
 pillow
+opencv-python
