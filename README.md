@@ -6,8 +6,8 @@ A simple and interactive web app for recognizing handwritten digits using a mach
 
 ## 🚀 Demo
 
-👉 [Live App](https://your-username-your-repo-name.streamlit.app)  
-_(Replace with your deployed URL)_
+👉 [Live App](https://app-digit-recognition-uyvwqhjehb3sqmy72laeoy.streamlit.app/)  
+
 
 ---
 
@@ -54,14 +54,51 @@ git clone https://github.com/yourusername/streamlit-digit-recognition.git
 cd streamlit-digit-recognition
 ```
 
-# Install dependencies
+### Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-# Run the app
+### Run the app
 
 ```bash
 streamlit run app.py
 ```
+
+---
+
+## ☁️ Deploy on Streamlit Cloud
+
+- Push the project to GitHub
+
+- Go to [streamlit.io/cloud](streamlit.io/cloud)
+
+- Connect your GitHub repo and deploy app.py
+
+- Done!
+
+---
+
+## 📁 File Structure
+
+```plaintext
+Edit
+├── app.py              # Main Streamlit application
+├── requirements.txt    # Python dependencies
+└── README.md           # Project overview
+```
+
+---
+
+## 🧠 Future Enhancements
+
+- Switch to MNIST dataset
+
+- Upgrade to CNN using TensorFlow/Keras
+
+- Add draw-your-digit canvas
+
+- Improve preprocessing for real-world images
+
+  
