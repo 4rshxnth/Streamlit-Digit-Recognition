@@ -6,7 +6,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 from PIL import Image
-import cv2
 
 st.set_page_config(page_title="Digit Recognition App", layout="centered")
 
