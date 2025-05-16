@@ -7,7 +7,7 @@ A simple and interactive web app for recognizing handwritten digits using a mach
 ## 🚀 Demo
 
 👉 [Live App](https://app-digit-recognition-uyvwqhjehb3sqmy72laeoy.streamlit.app/)  
-
+![Screenshot](image/Screenshot.png)
 
 ---
 
